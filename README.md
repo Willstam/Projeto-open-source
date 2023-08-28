@@ -4,17 +4,9 @@
 Repositório para armazenar resumos sobre Git e GitHub.
 Do curso versionamento de Código com Git e GitHub da [Digital innovation one](https://web.dio.me/home).
 
-## 📚 Documentação
-- [Documentação Git](https://git-scm.com/)
-- [Documentação GitHub](https://github.com/)
-
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/william-silva-96630b275/) 
-
-| ------|--------|
-| Aula 01 | [Resummo] ()
-| Aula 02| [Resummo] ()
 
 ## Tecnologias
 
