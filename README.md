@@ -8,9 +8,9 @@ Do curso versionamento de Código com Git e GitHub da [Digital innovation one](h
 - [Documentação Git](https://git-scm.com/)
 - [Documentação GitHub](https://github.com/)
 
-## 💻Resumos das Aulas
+## Conecte-se comigo
 
-| Aulas | Resumos |
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-mbv/](https://www.linkedin.com/in/william-silva-96630b275/))
 | ------|--------|
 | Aula 01 | [Resummo] ()
 | Aula 02| [Resummo] ()
