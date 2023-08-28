@@ -10,7 +10,7 @@ Do curso versionamento de Código com Git e GitHub da [Digital innovation one](h
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://www.linkedin.com/in/lucas-mbv/](https://www.linkedin.com/in/william-silva-96630b275/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/william-silva-96630b275/)
 
 | ------|--------|
 | Aula 01 | [Resummo] ()
